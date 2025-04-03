@@ -16,9 +16,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 ?>
 
-<!-- <form method="POST" action="register.php">
+<form method="POST" action="https://loginapp-production-8393.up.railway.app/register.php">
     <label>Username: </label><input type="text" name="username" required><br>
     <label>Email: </label><input type="email" name="email" required><br>
     <label>Password: </label><input type="password" name="password" required><br>
     <button type="submit">Register</button>
-</form> -->
+</form>
